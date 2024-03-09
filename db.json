@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehmet",
+      "title": "React MVC Pattern",
+      "text": "MVC mimarisi ile bileşen yönetimi nasıl uygulanır?..."
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "React MVVM Pattern",
+      "text": "MVVM mimarisi ile bileşen yönetimi nasıl uygulanır?..."
+    },
+    {
+      "id": "b2920703-164e-42f1-ac8f-8782f7765323",
+      "date": "2024-03-08T09:17:22.002Z",
+      "title": "React da kullanılan mimariler",
+      "text": "MVC ...",
+      "user": "Ebru"
+    },
+    {
+      "id": "89230a37-9a4b-4c79-b022-ab754bc0f2a0",
+      "date": "2024-03-09T12:13:39.311Z",
+      "title": "MVC de Controller kullanımı ayrıntıları nelerdir?...",
+      "text": "MVC de controller yapısı....",
+      "user": "Ebru"
+    },
+    {
+      "id": "eca18d7d-bdd7-452b-85b0-b2f72978038e",
+      "date": "2024-03-09T12:20:30.132Z",
+      "title": "MVC nedir?",
+      "text": "MVC bir tasarım desenidir....",
+      "user": "Ahmet"
+    },
+    {
+      "id": "68c6c5bf-66d2-46fa-ae4e-da56c8e8e5fe",
+      "date": "2024-03-09T12:28:18.331Z",
+      "title": "MVC...",
+      "text": " It can be used as part of an MVC architecture, but... ",
+      "user": "Ali"
+    },
+    {
+      "id": "1f81a030-7bf2-47e1-868b-d4521ece23bf",
+      "date": "2024-03-09T12:40:04.504Z",
+      "title": "MVC mimarisi...",
+      "text": "MVC ile ilgili olarak ...",
+      "user": "Mehmet"
+    }
+  ]
+}
